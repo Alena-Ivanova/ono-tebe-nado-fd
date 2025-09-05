@@ -121,6 +121,7 @@
 }
 
 .bet-button {
+  all: unset;
   flex-shrink: 0;
   box-sizing: border-box;
   width: 256px;
@@ -131,7 +132,6 @@
   text-align: center;
   text-transform: uppercase;
   background: transparent;
-  all: unset;
 }
 
 .lots {
